@@ -1,0 +1,1 @@
+vLux.exe "" -project "D:\Programs\Programming\my\project_anarchy\projects\Anarchoid2\Assets" -tempfolder "D:\Programs\Programming\my\project_anarchy\projects\Anarchoid2\Assets\Scenes\Level03.scene.Layers" -out "Scenes\Level03" -quiet -minimized -config "D:\Programs\Programming\my\project_anarchy\projects\Anarchoid2\Assets\Scenes\Level03.scene.Layers\lighting.cfg"

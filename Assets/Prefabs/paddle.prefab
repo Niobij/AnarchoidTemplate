@@ -1,0 +1,67 @@
+<root>
+  <info createdby="vForge version 2014.0.5.1" />
+  <header version="0" name="" description="" category="" convertible="True" autosavebinary="False" relativefilenames="False" />
+  <thumbnail type="jpg" size="2409">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAEAAQADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig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</thumbnail>
+  <shape class="TriggerBoxShape">
+    <property name="Enabled" value="True" />
+    <property name="ObserverFlags" value="ObservedEntities" />
+    <property name="DestroyOnTrigger" value="False" />
+    <property name="TriggerShape" value="Box" />
+    <property name="BoxSizeX" value="1092" />
+    <property name="BoxSizeY" value="132" />
+    <property name="BoxSizeZ" value="132" />
+    <property name="Preview3D" value="True" />
+    <property name="Preview2D" value="True" />
+    <property name="PreviewColor" value="160,190,255,255" />
+    <property name="ObjectKey" value="" />
+    <property name="Visible" value="True" />
+    <property name="Position" value="0,0,0" />
+    <property name="Orientation" value="0,0,0" />
+    <property name="Scaling" value="1,1,1" />
+    <property name="TextLabel" value="" />
+    <property name="ShapeName" value="PaddleTrigger" />
+    <property name="UserDataString" value="" />
+    <property name="ExportShape" value="True" />
+    <property name="UniqueID" value="16127477955961028778" />
+    <component class="VScriptComponent" paramstring="ComponentID=;ScriptFile=Scripts\092PaddleScript.lua;" visible="True" serializable="True" editable="True" removable="True" />
+    <linksource class="LinkSourceTriggerComponent" name="OnCameraEnter" ID="OnCameraEnter" />
+    <linksource class="LinkSourceTriggerComponent" name="OnCameraLeave" ID="OnCameraLeave" />
+    <linksource class="LinkSourceTriggerComponent" name="OnObjectEnter" ID="OnObjectEnter" />
+    <linksource class="LinkSourceTriggerComponent" name="OnObjectLeave" ID="OnObjectLeave" />
+    <shape class="EntityShape">
+      <property name="ModelFile" value="Models/paddle.model" />
+      <property name="CustomMaterialSet" value="&lt;None&gt;" />
+      <property name="EntityClass" value="VisBaseEntity_cl" />
+      <property name="ClassDefinitionTemplate" value="" />
+      <property name="EntityPropertyString" value="" />
+      <property name="ScaleX" value="1" />
+      <property name="ScaleY" value="1" />
+      <property name="ScaleZ" value="1" />
+      <property name="UniformScaling" value="1" />
+      <property name="NavMeshUsage" value="IncludeInNavMesh" />
+      <property name="VisibleBitmask" value="4294967295" />
+      <property name="NearClipDistance" value="0" />
+      <property name="FarClipDistance" value="0" />
+      <property name="RenderOrderPriority" value="0" />
+      <property name="CastDynamicShadows" value="False" />
+      <property name="CastStaticShadows" value="False" />
+      <property name="LightInfluenceBitmask" value="1" />
+      <property name="AmbientColor" value="0,0,0,255" />
+      <property name="ShowLightgridWidget" value="False" />
+      <property name="SampleOfsX" value="0" />
+      <property name="SampleOfsY" value="0" />
+      <property name="SampleOfsZ" value="0" />
+      <property name="ObjectKey" value="" />
+      <property name="Visible" value="True" />
+      <property name="Position" value="0,0,0" />
+      <property name="Orientation" value="0,0,0" />
+      <property name="Scaling" value="1,1,1" />
+      <property name="TextLabel" value="" />
+      <property name="ShapeName" value="paddle.model" />
+      <property name="UserDataString" value="" />
+      <property name="ExportShape" value="True" />
+      <property name="UniqueID" value="16127477955961028776" />
+      <component class="vHavokRigidBody" paramstring="ComponentID=;Shape_Type=Convex Hull;Shape_Radius=0;Shape_BoxSize=0,0,0;Shape_Height=0;Shape_PivotOffset=0,0,0;Shape_CenterOfMass=0,0,0;Havok_NoDeactivate=False;Havok_Mass=10;Havok_InertiaTensorComputeMode=Volume;Havok_SurfaceThickness=0.1;Havok_InertiaTensorAxisScaling=1,1,1;Havok_InertiaTensorScaling=1;Havok_Friction=0.5;Havok_Restitution=0.4;Havok_LinearDamping=0;Havok_AngularDamping=0.05;Havok_FileResourceName=;Debug_Render=False;Debug_Color=50,255,50,255;Havok_TakeRbDataFromFile=False;Havok_MotionType=Keyframed;Shape_PivotOffsetAutoAlign=True;Havok_CollisionLayer=27;Havok_CollisionGroup=0;Havok_SubSystemId=0;Havok_SubSystemDontCollideWith=0;Havok_QualityType=Auto;Havok_MaxKinematicVelocity=600;Havok_AlwaysInitAsDynamic=False;Havok_Active=True;Havok_WeldingType=None;Havok_TightFit=False;" visible="True" serializable="True" editable="True" removable="True" />
+    </shape>
+  </shape>
+</root>

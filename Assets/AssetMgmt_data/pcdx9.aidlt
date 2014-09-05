@@ -1,0 +1,52 @@
+flash/mainmenu_i1.tga	Flash/mainmenu_I1.tga	sRGB=false
+flash/mainmenu_i11.tga	Flash/mainmenu_I11.tga	sRGB=false
+flash/mainmenu_ia.tga	Flash/mainmenu_IA.tga	sRGB=false
+flash/mainmenu_if.tga	Flash/mainmenu_IF.tga	sRGB=false
+meshes/blockcorner.vmesh	Meshes/blockCorner.vmesh	LODSwitchDistances=
+meshes/floortile.vmesh	Meshes/floorTile.vmesh	LODSwitchDistances=
+meshes/walltile.vmesh	Meshes/wallTile.vmesh	LODSwitchDistances=
+models/ball.model	Models/ball.model	LODSwitchDistances=
+models/blockbig.model	Models/blockBig.model	LODSwitchDistances=
+models/blocksmall.model	Models/blockSmall.model	LODSwitchDistances=
+models/paddle.model	Models/paddle.model	LODSwitchDistances=
+prefabs/ball.prefab	Prefabs/ball.prefab	
+prefabs/blueblock.prefab	Prefabs/BlueBlock.prefab	
+prefabs/paddle.prefab	Prefabs/paddle.prefab	
+prefabs/yellowblock.prefab	Prefabs/YellowBlock.prefab	
+scenes/level01_p01.dds	AssetMgmt_data/transformed/level01_p01hqr3z7xclgdtc.dds	sRGB=false
+scenes/level01_p02.dds	AssetMgmt_data/transformed/level01_p02bgh98m0clgdtc.dds	sRGB=false
+scenes/level01_p03.dds	AssetMgmt_data/transformed/level01_p03cy6s#10clgdtc.dds	sRGB=false
+scenes/level01_p04.dds	AssetMgmt_data/transformed/level01_p0440354pxclgdtc.dds	sRGB=false
+scenes/level01_p05.dds	AssetMgmt_data/transformed/level01_p056gyg0vdclgdtc.dds	sRGB=false
+scenes/level02_p01.dds	AssetMgmt_data/transformed/level02_p01710mcp0clgdtc.dds	sRGB=false
+scenes/level02_p02.dds	AssetMgmt_data/transformed/level02_p0273jf7kjclgdtc.dds	sRGB=false
+scenes/level02_p03.dds	AssetMgmt_data/transformed/level02_p037l#6604clgdtc.dds	sRGB=false
+scenes/level02_p04.dds	AssetMgmt_data/transformed/level02_p04c54fq1dclgdtc.dds	sRGB=false
+scenes/level02_p05.dds	AssetMgmt_data/transformed/level02_p057c6hprnclgdtc.dds	sRGB=false
+scenes/level03_p01.dds	AssetMgmt_data/transformed/level03_p017hvcbyxclgdtc.dds	sRGB=false
+scenes/level03_p02.dds	AssetMgmt_data/transformed/level03_p02hyp54#jclgdtc.dds	sRGB=false
+scenes/level03_p03.dds	AssetMgmt_data/transformed/level03_p032vyvlmdclgdtc.dds	sRGB=false
+scenes/level03_p04.dds	AssetMgmt_data/transformed/level03_p049j#cznxclgdtc.dds	sRGB=false
+scenes/level03_p05.dds	AssetMgmt_data/transformed/level03_p057ssdg#8clgdtc.dds	sRGB=false
+scenes/level03_p06.dds	AssetMgmt_data/transformed/level03_p0605#wkfxclgdtc.dds	sRGB=false
+scenes/volume_43734cda_00000002.vmesh	Scenes/Volume_43734cda_00000002.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000007.vmesh	Scenes/Volume_43734cda_00000007.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_0000000c.vmesh	Scenes/Volume_43734cda_0000000c.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000011.vmesh	Scenes/Volume_43734cda_00000011.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000016.vmesh	Scenes/Volume_43734cda_00000016.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000ab.vmesh	Scenes/Volume_dfd04fc1_000000ab.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000b0.vmesh	Scenes/Volume_dfd04fc1_000000b0.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000bb.vmesh	Scenes/Volume_dfd04fc1_000000bb.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000c0.vmesh	Scenes/Volume_dfd04fc1_000000c0.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000c5.vmesh	Scenes/Volume_dfd04fc1_000000c5.vmesh	LODSwitchDistances=
+textures/ballred.tga	AssetMgmt_data/transformed/ballred8834qhjclgdtc.dds	sRGB=false
+textures/blockblue.tga	AssetMgmt_data/transformed/blockblue67cvm7xclgdtc.dds	sRGB=false
+textures/blockorange.tga	AssetMgmt_data/transformed/blockorange8ch06fxclgdtc.dds	sRGB=false
+textures/paddlegrey.tga	AssetMgmt_data/transformed/paddlegreycr18p0xclgdtc.dds	sRGB=false
+textures/sky/skyback.dds	AssetMgmt_data/transformed/skyback8dn80b0clgdtc.dds	sRGB=false
+textures/sky/skybottom.dds	AssetMgmt_data/transformed/skybottomhrq4vm0clgdtc.dds	sRGB=false
+textures/sky/skyfront.dds	AssetMgmt_data/transformed/skyfront1hnysnjclgdtc.dds	sRGB=false
+textures/sky/skyleft.dds	AssetMgmt_data/transformed/skyleft0fsnq7xclgdtc.dds	sRGB=false
+textures/sky/skyright.dds	AssetMgmt_data/transformed/skyright1h7szgsclgdtc.dds	sRGB=false
+textures/sky/skytop.dds	AssetMgmt_data/transformed/skytop4sxxlbxclgdtc.dds	sRGB=false
+textures/tilewhite.tga	AssetMgmt_data/transformed/tilewhite7mnmtj4clgdtc.dds	sRGB=false

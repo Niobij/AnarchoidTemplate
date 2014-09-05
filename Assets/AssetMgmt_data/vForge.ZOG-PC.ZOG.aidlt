@@ -1,0 +1,52 @@
+flash/mainmenu_i1.tga	Flash/mainmenu_I1.tga	sRGB=false
+flash/mainmenu_i11.tga	Flash/mainmenu_I11.tga	sRGB=false
+flash/mainmenu_ia.tga	Flash/mainmenu_IA.tga	sRGB=false
+flash/mainmenu_if.tga	Flash/mainmenu_IF.tga	sRGB=false
+meshes/blockcorner.vmesh	Meshes/blockCorner.vmesh	LODSwitchDistances=
+meshes/floortile.vmesh	Meshes/floorTile.vmesh	LODSwitchDistances=
+meshes/walltile.vmesh	Meshes/wallTile.vmesh	LODSwitchDistances=
+models/ball.model	Models/ball.model	LODSwitchDistances=
+models/blockbig.model	Models/blockBig.model	LODSwitchDistances=
+models/blocksmall.model	Models/blockSmall.model	LODSwitchDistances=
+models/paddle.model	Models/paddle.model	LODSwitchDistances=
+prefabs/ball.prefab	Prefabs/ball.prefab	
+prefabs/blueblock.prefab	Prefabs/BlueBlock.prefab	
+prefabs/paddle.prefab	Prefabs/paddle.prefab	
+prefabs/yellowblock.prefab	Prefabs/YellowBlock.prefab	
+scenes/level01_p01.dds	Scenes/Level01_P01.dds	sRGB=false
+scenes/level01_p02.dds	Scenes/Level01_P02.dds	sRGB=false
+scenes/level01_p03.dds	Scenes/Level01_P03.dds	sRGB=false
+scenes/level01_p04.dds	Scenes/Level01_P04.dds	sRGB=false
+scenes/level01_p05.dds	Scenes/Level01_P05.dds	sRGB=false
+scenes/level02_p01.dds	Scenes/Level02_P01.dds	sRGB=false
+scenes/level02_p02.dds	Scenes/Level02_P02.dds	sRGB=false
+scenes/level02_p03.dds	Scenes/Level02_P03.dds	sRGB=false
+scenes/level02_p04.dds	Scenes/Level02_P04.dds	sRGB=false
+scenes/level02_p05.dds	Scenes/Level02_P05.dds	sRGB=false
+scenes/level03_p01.dds	Scenes/Level03_P01.dds	sRGB=false
+scenes/level03_p02.dds	Scenes/Level03_P02.dds	sRGB=false
+scenes/level03_p03.dds	Scenes/Level03_P03.dds	sRGB=false
+scenes/level03_p04.dds	Scenes/Level03_P04.dds	sRGB=false
+scenes/level03_p05.dds	Scenes/Level03_P05.dds	sRGB=false
+scenes/level03_p06.dds	Scenes/Level03_P06.dds	sRGB=false
+scenes/volume_43734cda_00000002.vmesh	Scenes/Volume_43734cda_00000002.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000007.vmesh	Scenes/Volume_43734cda_00000007.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_0000000c.vmesh	Scenes/Volume_43734cda_0000000c.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000011.vmesh	Scenes/Volume_43734cda_00000011.vmesh	LODSwitchDistances=
+scenes/volume_43734cda_00000016.vmesh	Scenes/Volume_43734cda_00000016.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000ab.vmesh	Scenes/Volume_dfd04fc1_000000ab.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000b0.vmesh	Scenes/Volume_dfd04fc1_000000b0.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000bb.vmesh	Scenes/Volume_dfd04fc1_000000bb.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000c0.vmesh	Scenes/Volume_dfd04fc1_000000c0.vmesh	LODSwitchDistances=
+scenes/volume_dfd04fc1_000000c5.vmesh	Scenes/Volume_dfd04fc1_000000c5.vmesh	LODSwitchDistances=
+textures/ballred.tga	Textures/ballRed.tga	sRGB=false
+textures/blockblue.tga	Textures/blockBlue.tga	sRGB=false
+textures/blockorange.tga	Textures/blockOrange.tga	sRGB=false
+textures/paddlegrey.tga	Textures/paddleGrey.tga	sRGB=false
+textures/sky/skyback.dds	Textures/Sky/SkyBack.dds	sRGB=false
+textures/sky/skybottom.dds	Textures/Sky/SkyBottom.dds	sRGB=false
+textures/sky/skyfront.dds	Textures/Sky/SkyFront.dds	sRGB=false
+textures/sky/skyleft.dds	Textures/Sky/SkyLeft.dds	sRGB=false
+textures/sky/skyright.dds	Textures/Sky/SkyRight.dds	sRGB=false
+textures/sky/skytop.dds	Textures/Sky/SkyTop.dds	sRGB=false
+textures/tilewhite.tga	Textures/tileWhite.tga	sRGB=false
