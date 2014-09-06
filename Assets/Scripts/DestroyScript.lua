@@ -1,5 +1,9 @@
 function OnObjectEnter(self, object)
   if (object:GetKey() == "ball") then
+  
+    local effect = Game:CreateEffect(object:GetPosition(), "Particles/explode.xml", "BallExplode")
+    effect:SetScaling(3)
+  
     local rigidBody = object:GetComponentOfType("vHavokRigidBody")
     if rigidBody ~= nil then
       rigidBody:SetLinearVelocity(Vision.hkvVec3())

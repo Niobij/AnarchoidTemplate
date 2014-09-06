@@ -1,0 +1,7 @@
+<root>
+    <Materials override="TRUE">
+        <Material name="blinn1" userflags="0" diffuse="..\Textures\ballRed.tga" specularmap="..\Textures\ballRed.tga" Lighting="LightGrid" pass="Auto" transparency="opaque" doublesided="FALSE" depthwrite="TRUE" datadirectoryrelative="FALSE" zbias="0,0,0" specmul="1" specexp="2" parallaxscale="-0.03" parallaxbias="-0.015" ambient="0,0,0,255" sortingkey="0" alphathreshold="0.25" lightmapsize="128,128" lightmapgran="0" lightmapID="-1">
+            <Shader library="\Shaders\MobileShaders.ShaderLib" effect="DiffuseGlow" paramstring="CullMode=back;DepthWrite=true;MaterialParams=1,2,-0.03,-0.015;AlphaThreshold=0.25;MaterialAmbient=0,0,0;GlowIntensity=1;VertexLighting=False;DynamicLightNormalMapping=False;" />
+        </Material>
+    </Materials>
+</root>
