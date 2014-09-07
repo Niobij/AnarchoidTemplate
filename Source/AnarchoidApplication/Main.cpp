@@ -9,6 +9,8 @@
 #include "AnarchoidApplicationPCH.h"
 #include <Vision/Runtime/Framework/VisionApp/VAppImpl.hpp>
 #include <Vision/Runtime/Framework/VisionApp/Modules/VHelp.hpp>
+#include <Vision/Runtime/Framework/VisionApp/Modules/VLoadingScreen.hpp>
+#include <Vision/Runtime/Framework/VisionApp/Modules/VRestoreScreen.hpp>
 
 #if defined(USE_FILESERVE)
 #include <Vision/Runtime/Framework/VisionApp/Modules/VFileServe.hpp>
@@ -30,6 +32,7 @@ public:
   virtual void PreloadPlugins() HKV_OVERRIDE;
 
   virtual void Init() HKV_OVERRIDE;
+  virtual void AfterEngineInit() HKV_OVERRIDE;
   virtual void AfterSceneLoaded(bool bLoadingSuccessful) HKV_OVERRIDE;
   virtual bool Run() HKV_OVERRIDE;
   virtual void DeInit() HKV_OVERRIDE;
@@ -105,6 +108,14 @@ void AnarchoidApplicationClass::AfterSceneLoaded(bool bLoadingSuccessful)
 
   // Add other initial game code here
   // [...]
+}
+
+void AnarchoidApplicationClass::AfterEngineInit()
+{
+	VLoadingScreen::Settings loadSettings("Textures/Splash.dds");
+	loadSettings.m_progressBarColor.SetRGB(50, 100, 255);
+	RegisterAppModule(new VLoadingScreen(loadSettings));
+	RegisterAppModule(new VRestoreScreen);
 }
 
 //---------------------------------------------------------------------------------------------------------

@@ -124,7 +124,8 @@
       <WriteExternal>true</WriteExternal>
       <Internet>true</Internet>
       <Libraries>$(HAVOK_THIRDPARTY_DIR)/redistsdks/fmod/4.44.23/lib/android/armeabi-v7a/libfmodex.so;$(HAVOK_THIRDPARTY_DIR)/redistsdks/fmod/4.44.23/lib/android/armeabi-v7a/libfmodevent.so</Libraries>
-      <Assets>..\../Data/Vision/Base/ Data/Vision/Base/;..\../Assets/ Assets/</Assets>
+      <Assets>../../Assets/ProjectPackages/Base.android.vArcFolder/ Data/Vision/Base/;../../Assets/ProjectPackages/Project.android.vArcFolder/ Assets/</Assets>
+      <Manifest>..\..\Source\AnarchoidApplication\AndroidManifest.xml</Manifest>
     </Deploy>
   </ItemDefinitionGroup>
   <ItemGroup>

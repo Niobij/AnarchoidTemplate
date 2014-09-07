@@ -16,8 +16,8 @@ prefabs/blueblock.prefab	Prefabs/BlueBlock.prefab
 prefabs/paddle.prefab	Prefabs/paddle.prefab	
 prefabs/playbox.prefab	Prefabs/playbox.prefab	
 prefabs/yellowblock.prefab	Prefabs/YellowBlock.prefab	
-scenes/level01_p01.dds	AssetMgmt_data/transformed/level01_p012t856cdclgdtc.dds	sRGB=false
-scenes/level01_p02.dds	AssetMgmt_data/transformed/level01_p02fj2#3wsclgdtc.dds	sRGB=false
+scenes/level01_p01.dds	AssetMgmt_data/transformed/level01_p019rqlfzsclgdtc.dds	sRGB=false
+scenes/level01_p02.dds	AssetMgmt_data/transformed/level01_p026gv987sclgdtc.dds	sRGB=false
 scenes/level01_p03.dds	AssetMgmt_data/transformed/level01_p03cy6s#10clgdtc.dds	sRGB=false
 scenes/level01_p04.dds	AssetMgmt_data/transformed/level01_p0440354pxclgdtc.dds	sRGB=false
 scenes/level01_p05.dds	AssetMgmt_data/transformed/level01_p056gyg0vdclgdtc.dds	sRGB=false
@@ -57,4 +57,5 @@ textures/sky/skyfront.dds	AssetMgmt_data/transformed/skyfront1hnysnjclgdtc.dds	s
 textures/sky/skyleft.dds	AssetMgmt_data/transformed/skyleft0fsnq7xclgdtc.dds	sRGB=false
 textures/sky/skyright.dds	AssetMgmt_data/transformed/skyright1h7szgsclgdtc.dds	sRGB=false
 textures/sky/skytop.dds	AssetMgmt_data/transformed/skytop4sxxlbxclgdtc.dds	sRGB=false
+textures/splash.dds	AssetMgmt_data/transformed/splashc3mdl24clgdtc.dds	sRGB=false
 textures/tilewhite.tga	AssetMgmt_data/transformed/tilewhite7mnmtj4clgdtc.dds	sRGB=false

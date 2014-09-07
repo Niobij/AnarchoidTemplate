@@ -481,9 +481,9 @@
                 ]
             },
             "File": {
-                "Hash": 415911450,
-                "TimeStamp": 1410007537884411700,
-                "LastEditTime": 1410007539007475900
+                "Hash": 1508306528,
+                "TimeStamp": 1410114699294246800,
+                "LastEditTime": 1410114700411310600
             },
             "Transformations": {
                 "TemplateName": "Default"
@@ -509,6 +509,949 @@
                 "TemplateName": "Default"
             }
         },
+        "ProjectPackages/Base.android.vArcFolder/Atten/linear.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 536379723,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484482353700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 1,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Atten/none.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 166344381,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484486353900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 1,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Atten/quad.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 773099748,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484491354200
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 1,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Atten/smooth.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1800710047,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116482954266300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 1,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Atten/square.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1220625880,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484496354500
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 1,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/defaultSpotlight.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3308412089,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484437351100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Fonts/Arial_18_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3870985676,
+                "TimeStamp": 1395973020000000000,
+                "LastEditTime": 1410116484450351800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 128,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Fonts/Arial_22_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2633337302,
+                "TimeStamp": 1395973020000000000,
+                "LastEditTime": 1410116484457352200
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 128,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Fonts/CourierNew_18_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4196436275,
+                "TimeStamp": 1395973020000000000,
+                "LastEditTime": 1410116484463352600
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Fonts/DebugFont_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2333864816,
+                "TimeStamp": 1395973018000000000,
+                "LastEditTime": 1410116484470353000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 64,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Fonts/OpenSans_22_00.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1593141916,
+                "TimeStamp": 1395973020000000000,
+                "LastEditTime": 1410116484476353300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 128,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Base.android.vArcFolder/Textures/blobShadow.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 105301143,
+                "TimeStamp": 1395973020000000000,
+                "LastEditTime": 1410116484444351500
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Flash/mainmenu_I1.tga": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2005368526,
+                "TimeStamp": 1409940729977927600,
+                "LastEditTime": 1410116484140334100
+            },
+            "Texture": {
+                "FileFormat": "TGA",
+                "Width": 84,
+                "Height": 84,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Flash/mainmenu_I11.tga": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 783009147,
+                "TimeStamp": 1409940729978927600,
+                "LastEditTime": 1410116484155335000
+            },
+            "Texture": {
+                "FileFormat": "TGA",
+                "Width": 152,
+                "Height": 151,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Flash/mainmenu_IA.tga": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3693734517,
+                "TimeStamp": 1409940729986928100,
+                "LastEditTime": 1410116484251340500
+            },
+            "Texture": {
+                "FileFormat": "TGA",
+                "Width": 1024,
+                "Height": 1024,
+                "HasAlpha": false,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Flash/mainmenu_IF.tga": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 545646373,
+                "TimeStamp": 1409940729991928400,
+                "LastEditTime": 1410116484341345600
+            },
+            "Texture": {
+                "FileFormat": "TGA",
+                "Width": 800,
+                "Height": 762,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/blockCorner.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1065503728,
+                "TimeStamp": 1409940729992928400,
+                "LastEditTime": 1410116484358346600
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/floorTile.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Meshes/floorTile.vmesh_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/cubemap.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2179440241,
+                "TimeStamp": 1409940729993928500,
+                "LastEditTime": 1410116484380347800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/magicSpiral.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Meshes/magicSpiral.vmesh_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/magic.tga",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3308297924,
+                "TimeStamp": 1401290568000000000,
+                "LastEditTime": 1410116484103332000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/wallTile.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Meshes/wallTile.vmesh_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/cubemap.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2624514120,
+                "TimeStamp": 1409940729993928500,
+                "LastEditTime": 1410116484406349300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/ball.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Models/ball.model_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/ballRed.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3406847857,
+                "TimeStamp": 1409940729994928500,
+                "LastEditTime": 1410116483860318100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/blockBig.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Models/blockBig.model_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/blockOrange.tga",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/cubemap.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3244816183,
+                "TimeStamp": 1409940729995928600,
+                "LastEditTime": 1410116483981325000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/blockSmall.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Models/blockSmall.model_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/blockBlue.tga",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/cubemap.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3227232819,
+                "TimeStamp": 1409940729996928700,
+                "LastEditTime": 1410116484031327900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/paddle.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/Models/paddle.model_data/materials.xml",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/paddleGrey.tga",
+                    "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga",
+                    "Shaders/MobileShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/cubemap.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2192427264,
+                "TimeStamp": 1409940729997928700,
+                "LastEditTime": 1410116484067329900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Particles/explode.vpfx": {
+            "AssetType": "Particle",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "ProjectPackages/Project.android.vArcFolder/flare13.dds"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 134862232,
+                "TimeStamp": 1410004164799482300,
+                "LastEditTime": 1410116484987382600
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_43734cda_00000002.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1236876909,
+                "TimeStamp": 1410008984934178200,
+                "LastEditTime": 1410116485000383300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_43734cda_00000007.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3508061262,
+                "TimeStamp": 1410008984974180500,
+                "LastEditTime": 1410116485029385000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_43734cda_0000000c.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 83598978,
+                "TimeStamp": 1410008985124189100,
+                "LastEditTime": 1410116485049386100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_43734cda_00000011.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2981874196,
+                "TimeStamp": 1410008985172191800,
+                "LastEditTime": 1410116485069387200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_43734cda_00000016.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3328874008,
+                "TimeStamp": 1410008985192193000,
+                "LastEditTime": 1410116485089388400
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_dfd04fc1_000000ab.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1236876909,
+                "TimeStamp": 1409940730170938600,
+                "LastEditTime": 1410116485110389600
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_dfd04fc1_000000b0.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3508061262,
+                "TimeStamp": 1409940730170938600,
+                "LastEditTime": 1410116485129390700
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_dfd04fc1_000000bb.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3696633653,
+                "TimeStamp": 1409940730170938600,
+                "LastEditTime": 1410116485148391800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_dfd04fc1_000000c0.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1003989866,
+                "TimeStamp": 1409940730170938600,
+                "LastEditTime": 1410116485168392900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "ProjectPackages/Project.android.vArcFolder/Scenes/Volume_dfd04fc1_000000c5.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 923667968,
+                "TimeStamp": 1409940730170938600,
+                "LastEditTime": 1410116485187394000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
         "Scenes/Level01_P01.dds": {
             "AssetType": "Texture",
             "Common": {
@@ -521,9 +1464,9 @@
                 ]
             },
             "File": {
-                "Hash": 748725851,
-                "TimeStamp": 1410007566051022700,
-                "LastEditTime": 1410007567501105700
+                "Hash": 2614775286,
+                "TimeStamp": 1410114713931083900,
+                "LastEditTime": 1410114715359165600
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -548,9 +1491,9 @@
                 ]
             },
             "File": {
-                "Hash": 3624657886,
-                "TimeStamp": 1410007566139027800,
-                "LastEditTime": 1410007567535107600
+                "Hash": 1734944830,
+                "TimeStamp": 1410114714019089000,
+                "LastEditTime": 1410114715391167400
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1606,6 +2549,33 @@
                 "TemplateName": "Default"
             }
         },
+        "Textures/Splash.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2983039505,
+                "TimeStamp": 1402575550000000000,
+                "LastEditTime": 1410114654201667600
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 1024,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
         "Textures/tileWhite.tga": {
             "AssetType": "Texture",
             "Common": {
@@ -1639,6 +2609,76 @@
             "Hash": 0,
             "TimeStamp": 1410002111546042900,
             "LastEditTime": 1409999400495979700
+        },
+        "ProjectPackages/Project.android.vArcFolder/flare13.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484529356400
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/floorTile.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1409999598578309400,
+            "LastEditTime": 1410116482954266300
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/magicSpiral.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1410002111546042900,
+            "LastEditTime": 1410116482953266200
+        },
+        "ProjectPackages/Project.android.vArcFolder/Meshes/wallTile.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1409999598600310600,
+            "LastEditTime": 1410116482954266300
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/ball.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1410001986815908800,
+            "LastEditTime": 1410116482953266200
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/blockBig.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1409999598661314100,
+            "LastEditTime": 1410116482953266200
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/blockSmall.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1410008640814495700,
+            "LastEditTime": 1410116482953266200
+        },
+        "ProjectPackages/Project.android.vArcFolder/Models/paddle.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1409999598703316500,
+            "LastEditTime": 1410116482953266200
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/ballRed.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116483980325000
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/blockBlue.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484067329900
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/blockOrange.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484030327800
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/magic.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484139334100
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/paddleGrey.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484103332000
+        },
+        "ProjectPackages/Project.android.vArcFolder/Textures/tileWhite.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1410116484030327800
         },
         "Shaders/Anarchoid.ShaderLib": {
             "Hash": 0,
